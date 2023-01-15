@@ -1,0 +1,2 @@
+<link rel="preload" as="image" href="https://www.gotoassignmenthelp.com/images/bottomGradient.webp" media="(min-width: 768px)" />
+<link rel="preload" as="image" href="https://www.gotoassignmenthelp.com/images/banner1.webp" media="(min-width: 768px)" />

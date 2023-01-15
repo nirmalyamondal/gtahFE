@@ -1,0 +1,3 @@
+<div class="acu_left text-justify">
+  <p class="text-justify">We all know that many well-established brands provide their helping hand through their assignment helping services. Various subjects of assignment helpers get their profession on those services. Lots of students from universities in India become profitable through GotoAssignmentHelp service and those are the University of Delhi, University of Mumbai, Calcutta university, University Of Hyderabad, etc. The writers all have PHD degrees and long experience in this field.</p>
+</div>

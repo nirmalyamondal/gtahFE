@@ -1,0 +1,3 @@
+<div class="acu_left text-justify">
+                  <p class="text-justify">Many online services are available at present time GotoAssignmentHelp is the most preferable according to many people. It has many alluring features and the assignments available here all are a unique style of writing. More than 2000 writers work here to give support to the students of universities of New Zealand. Take a look at those universities – the University of Auckland, the University of Canterbury, the University of Otago, etc. </p>
+				 </div>

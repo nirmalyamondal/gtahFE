@@ -1,0 +1,4 @@
+<div class="acu_left text-justify">
+                  <p class="text-justify">With their outstanding performance and credibility, GotoAssignmentHelp has taken a permanent position in the mind of students. At present, its services are available all over the world. Students of renowned universities like Management and Science University, University Technology MARA, University Industry Selangor, Faculty of Information Science and Engineering (FISE), etc regularly avail of our services and upgrade their academic grades.</p>
+				  <p class="text-justify">If you are among those students, who are thinking about how to reduce your burden of assignment, then assignment help Shah Alam can be your number one choice. We offer various kinds of services at a very reasonable rate.</p>
+                </div>

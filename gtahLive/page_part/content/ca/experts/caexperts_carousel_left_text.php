@@ -1,0 +1,4 @@
+<div class="acu_left text-justify">
+                  <p class="text-justify">At present days, GotoAssignmentHelp has become a brand among students resign all over the world. We have a large number of students from Canadian universities like - the University of Toronto, the University of Alberta, The University of British Columbia, the University of Waterloo, Western University, etc. who regularly avail of our services and feel grateful for our assignment help expert Canada team.</p>
+				  <p class="text-justify">If you are among those students who are in search of the best assignment help service at an affordable price, then this is the best platform for you. We offer various types of services in return for minimal wages.</p>
+                </div>

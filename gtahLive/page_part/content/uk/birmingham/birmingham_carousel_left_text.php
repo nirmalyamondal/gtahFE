@@ -1,0 +1,4 @@
+<div class="acu_left text-justify">
+                  <p class="text-justify">At present, GotoAssignmentHelp is the number one preference of students residing all over the world. We have a large number of students from famous universities like – the University of Birmingham, Aston University, Birmingham City University, South and City College Birmingham, Sutton Coldfield College, and many more. They regularly avail of our assignment help Birmingham service and upgrade their academic grades.</p>
+				  <p class="text-justify">If you are thinking about improving your academic grades and want to concentrate on your study, then this is the best platform on which you can rely wholly. We have skilled experts who offer various kinds of services at an affordable rate.</p>
+                </div>

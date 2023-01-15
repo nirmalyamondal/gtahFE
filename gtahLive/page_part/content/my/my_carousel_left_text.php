@@ -1,0 +1,3 @@
+<div class="acu_left text-justify">
+                  <p class="text-justify">GotoAssignmentHelp has emerged as the leading online assignment help services provider for students across all countries. If you are one of those students who is looking for the best online assignment help service, this is a great place to get it at an affordable assignment helper Malaysia price. Some of the best universities in Malaysia, including the University of Malaysia, Universiti Teknologi Malaysia and AIMST University regularly call on our assignment writers to help their students with online homework.</p>
+                </div>

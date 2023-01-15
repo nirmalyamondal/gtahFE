@@ -1,0 +1,19 @@
+<div class="main-wrapper lgray_cologbg">
+      <div class="container-fluid">
+        <div class="row">
+              <div class="col-sm-5">  
+                <img src="https://www.gotoassignmenthelp.com/images/know_us_better.webp" alt="Know Us Better" width="100%" height="auto" />
+              </div>
+              <div class="col-sm-7">  
+                <div class="blue_bottom_line_wrap d-flex justify-content-center"><h2 class="blue_bottom_line">All You Need to About GotoAssignmentHelp</h2></div>
+                <div class="kub_div_text">
+                  <p class="text-justify">In this regard, GotoAssignmentHelp has started a programming assignment helper Malaysia service for the students of Malaysia. Under this service, we provide programming homework help on various topics. Students can choose the topics in programming languages according to their needs. Our web programming assignment help Malaysia team works day and night to finish the programming assignment within the stipulated time. If you are worried about your unfinished programming assignments and are thinking of hiring a reliable service provider, then you can choose any one of our services given below to improve your academic grades. Our programming assignment helper Malaysia team always provides superior quality programming help to the students. These programming language assignments help experts have been serving the students for the last few years with smiles and grace, and the students are very happy with their services.</p>
+                </div>
+                <div class="kub_button_container d-flex justify-content-center">
+                  <button onclick="Comm100API.do('livechat.button.click');" class="expert_link orange_color_link orange_colorbg white_text rounded">Talk to Experts</button>
+                  <a href="https://www.gotoassignmenthelp.com/order-now/" class="order_link red_color_link red_cologbg white_text rounded">Order Now</a>
+                </div>
+              </div>
+          </div>
+        </div>
+  </div>

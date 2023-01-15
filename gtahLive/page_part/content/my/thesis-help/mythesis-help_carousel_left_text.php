@@ -1,0 +1,3 @@
+<div class="acu_left text-justify">
+                  <p class="text-justify">At present time GotoAssignmentHelp is the best service provider of all. Students from many well-known colleges and universities prefer to hire experts from our service when they get their assignments. Students from the universities always hire experts from our service and they believe our service regarding the competitions of assignments. Students, who are looking for good quality assignments experts, don’t waste your time thinking. Visit our official website you will see the students who already used our service reviewed it as the best service.</p>
+                </div>

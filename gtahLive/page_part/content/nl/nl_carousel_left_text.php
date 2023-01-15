@@ -1,0 +1,4 @@
+<div class="acu_left text-justify">
+                  <p class="text-justify">Students from many well known universities hire experts through this GotoAssignmentHelp service when they get assignments from their colleges or universities. There are lots of universities present and some of those are – the University of Amsterdam, the University of Groningen, Utrecht University, Leiden University, Erasmus University of Rotterdam, etc. Students from these universities always prefer to hire experts from our service.</p>
+				  <p class="text-justify">If you are very much tense about your assignments don’t waste time thinking. Visit our websites and hire experts from our service and then stay relaxed because after some time you will get your complete assignments.</p>
+                </div>

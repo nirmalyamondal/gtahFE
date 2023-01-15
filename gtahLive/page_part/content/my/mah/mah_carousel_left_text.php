@@ -1,0 +1,4 @@
+<div class="acu_left text-justify">
+                  <p class="text-justify">Nowadays, GotoAssignmentHelp has become a brand in providing various kinds of best assignment help services. At present we have a large number of students who regularly avail of our services, such as the University of Malaya, Universiti Sains Malaysia, Monash University – Malaysia, Lincoln University College, Mahsa University, and many more. They regularly access our assignment help Malaysia services and score high.</p>
+				  <p class="text-justify">If you are thinking about how to get rid of your trouble regarding assignments, then this is the ideal platform to count on. Here you will get all types of services at a very reasonable rate. So, assignment is not a burden anymore.</p>
+                </div>

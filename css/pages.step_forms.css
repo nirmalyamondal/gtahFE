@@ -1,0 +1,162 @@
+/*************************************************************/
+/*Login*/
+.bigbanner_bg_login {
+  box-shadow: inset 0px 4px 6px rgba(0, 0, 0, 0.12);
+  background: #fff url("../images/login_combine.webp") no-repeat center top; 
+  background-size:contain; 
+  padding-top:18px; 
+  padding-bottom: 2px;
+  min-height: 580px;
+}
+.yellow_border_top {
+  border-top: 1px solid #F2982D;
+}
+.login_page_box {
+  border: 1px dashed #CCCCCC;
+  border-radius: 2px;
+  padding: 8px 5px;
+  float: left;
+  width: 100%;
+  max-width: 300px;
+}
+.forget_pwd_p { margin-top:15px; }
+.left_gery_icon {
+  float: left;
+  padding: 5px 10px 0 0;
+}
+.right_log_text {
+  float: left;
+}
+p.login_box_heading, p.login_box_text {
+  margin: 0;
+}
+p.login_box_text {
+  font-size: 10px;
+  color: #666;
+}
+p.login_box_heading {
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 28px;
+}
+@media (max-width:992px){
+  .login_page_box { }
+}
+h2.normal_header {
+  font-weight: bold;
+  color: #1F1F1F;
+}
+p.form_slogan {
+  color: #999;
+}
+p.form_login_error { color:red; }
+/*************************************************************/
+/*Form Step1*/
+.logo_wrap_height { border-top: 2px solid #F2982D;  }
+.bigbanner_bg_step1 {
+  box-shadow: inset 0px 4px 6px rgba(0, 0, 0, 0.12);
+  background: #fff url("../images/fomr1_page_bg.webp") no-repeat center bottom; 
+  /*background-size:contain;*/
+  padding-top:18px; 
+  padding-bottom: 2px;
+}
+.hero_slogan {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 46px;
+  line-height: 56px;
+}
+/*************************************************************/
+/*Form Step2*/
+.logo_wrap_height { border-top: 2px solid #F2982D;  }
+.bigbanner_bg_step2 {
+  box-shadow: inset 0px 4px 6px rgba(0, 0, 0, 0.12);
+  background: #fff url("../images/form2_page_bg.webp") no-repeat center bottom; 
+  /*background-size:contain;*/
+  padding-top:18px; 
+  padding-bottom: 2px;
+}
+.twosteps_form_wrap{
+  border-radius: 5px;
+  margin-bottom:30px ;
+  padding: 15px;
+}
+
+/**************************************************/
+/*Thank*/
+.bigbanner_bg_thank {
+  box-shadow: inset 0px 4px 6px rgba(0, 0, 0, 0.12);
+  background: #fff url("../images/form2_page_bg.webp") no-repeat center bottom; 
+  /*background-size:contain;*/
+  padding-top:18px; 
+  padding-bottom: 2px;
+}
+.order_success_text {
+  font-size: 14px;
+  font-weight: bold;
+}
+.step_1_label, .step_2_label  {
+  font-size: 22px;
+  font-weight: bold;
+}
+.step_1_label {
+  padding-left: 30px;
+  float: right;
+}
+.step_2_label {
+  padding-left: 30px;
+}
+.step_2_label p{
+  color: #F7C181;
+}
+.step1_2_arrow {
+  margin-top:10px;
+}
+
+/* Style the tab */
+.ftab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons that are used to open the tab content */
+.ftab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.ftab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.ftab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.ftabcontent {
+  display: none;
+  padding: 6px 12px;
+  border-top: none;
+  height: 300px;
+}
+.step_12_label .white_text a { color:#F7C181; }
+.step_12_label.active .white_text a { color:#fff; }
+.step_12_label {
+  background: url(../images/inactive_circle_orange_step.webp) no-repeat 0% 20%;
+}
+.step_12_label.active {
+  background: url(../images/active_circle_orange_step.webp) no-repeat 0% 20%;
+}
+a.file_txt_colr u{
+  color:#fff;
+}

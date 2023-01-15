@@ -1,0 +1,4 @@
+<div class="acu_left text-justify">
+                  <p class="text-justify">As you all know, GotoAssignmentHelp is the best online assignment help services provider for students from all countries across the world. The students of the best universities in Malaysia like – Segi University College, Tunku Abdul Rahman University College, Taylor’s University, Brickfields Asia College, etc largely depend on our assignment help Petaling Jaya services. They express their gratitude to our experts for their help and assistance.</p>
+				  <p class="text-justify">If you are struggling with your assignment, and thinking about how to get rid of the problem, then you can rely on our assignment help Petaling Jaya services by paying very minimal wages.</p>
+                </div>

@@ -1,0 +1,4 @@
+<div class="acu_left text-justify">
+                  <p class="text-justify">We all believe that GotoAssignmentHelp is the best online assignment help provider at present all over the world and in George Town, Malaysia too. We have a large number of students who regularly avail of our services, like RCSI and UCD – Malaysia Campus, Universiti Malaysia Sarawak, Universiti Teknikal Malaysia, Monash University, etc and they refer our services to other students too.</p>
+				  <p class="text-justify">If you are one of those students, who is in search of the best assignment help service provider, then it is the best platform where you will get everything under a roof. The most important thing is that all our services are given at a very reasonable rate.</p>
+                </div>

@@ -1,0 +1,4 @@
+<div class="acu_left text-justify">
+                  <p class="text-justify">As you all know, GotoAssignmentHelp is the best online assignment help services provider for the students from all countries across the world. The students of the best universities across the globe like - the Massachusetts Institute of Technology (MIT), Australian National University (ANU), Stanford University, California Institute of Technology (Caltech), Imperial College London, University of Chicago , National University of Singapore (NUS), etc. regularly access online assignment help services from our highly regarded assignment writers.</p>
+              <p class="text-justify">If you are one of those students, who is looking for an online assignment help service, this is the ideal platform for you to get the best assignment writing service at the most affordable assignment helper price in the market.</p>
+                </div>

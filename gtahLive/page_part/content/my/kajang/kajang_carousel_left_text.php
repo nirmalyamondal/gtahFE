@@ -1,0 +1,3 @@
+<div class="acu_left text-justify">
+                  <p class="text-justify">The go to assignment help service becomes one of the most popular services with time. It gradually gains a good reputation among its users. Many top rank students from popular cities and universities in Malaysia take help from this website for their assignment help. Students from universities of university Malaya, UKM, UPM, and UTM, get help from this service. They are very happy with it and share their positive experience on this official website. </p>
+                </div>

@@ -1,0 +1,3 @@
+ <div class="acu_left text-justify">
+                  <p class="text-justify">GotoAssignmentHelp provide the students of the top universities of the United States of America top quality assignment solution at the most affordable price in the market. No matter which city of the USA you are living in. We have the most accomplished assignment experts to provide the students all kinds of academic solution.</p>
+                </div>   

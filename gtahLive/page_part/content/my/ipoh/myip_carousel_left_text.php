@@ -1,0 +1,5 @@
+<div class="acu_left text-justify">
+                  <p class="text-justify">It is known to all students that GotoAssignmentHelp service provides many services all over the world. Students from all over the world can hire professional experts through this service. There are lots of students from well-known universities with access to our online services and those universities or colleges are – Asia pacific university of technology & innovation (APU), Taylor’s University, Monash University Malaysia, New Era University College, Mantissa College, Inceif University, etc. Students of these universities always use our services for their assignments. 
+Students who are looking for good quality writing and top quality experts then this is the best place from where you can fulfil all your dreams in your academic life. We assure you our best services to the students.
+</p>
+                </div>

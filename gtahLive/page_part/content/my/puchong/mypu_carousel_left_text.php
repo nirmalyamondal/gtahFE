@@ -1,0 +1,3 @@
+<div class="acu_left text-justify">
+                  <p class="text-justify">Every student knows that many popular online services provide the best service for their academic students. But according to a survey GotoAssignmentHelp is the most preferable and most gettable service for its services and features. It has gained very much popularity among the universities of Puchong. Those universities are – Monash University Malaysia, New Era University College, Mantissa College, Inceif University, etc.</p>
+                </div>

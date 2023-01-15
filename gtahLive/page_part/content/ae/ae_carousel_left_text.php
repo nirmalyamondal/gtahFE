@@ -1,0 +1,3 @@
+<div class="acu_left text-justify">
+                  <p class="text-justify">We can call assignments a new source of a bright future. Many students seek a good quality assignment every day and many popular companies are present on the internet. GotoAssignmentHelp is becoming the most popular among all services day by day. Students from United Arab Emirates University, Khalifa University, Abu Dhabi University, University of Sharjah, and others like to hire an expert writer from this service.</p>
+                </div>
